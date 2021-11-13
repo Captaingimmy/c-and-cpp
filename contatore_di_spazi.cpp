@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    char arr[20] = {"ciao mi chiamo mattia"};
+    char arr[20] = {"hello world github"};
     int spazio = 0,k;
 
     
